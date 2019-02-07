@@ -8,8 +8,9 @@ class User Extends Model {
     }
 
     /* INSERT */
-    public function insert_user(){
-        
+    public function insert_user()
+    {
+
     } 
 }
 
