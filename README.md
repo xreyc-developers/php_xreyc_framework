@@ -1,2 +1,2 @@
 # php_xreyc_framework
-My framework
+This is a PHP framework build to simplify work
