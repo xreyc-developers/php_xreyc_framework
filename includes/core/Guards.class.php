@@ -9,11 +9,8 @@
  * AUTHENTICATION
  */
 
-$AUTH = [
-    "ALL" => "UNGUARDED",
-    "SESSION" => "GUARDED", 
-    "JWT" => "GUARDED"
-];
+
+
 
 /**
  * PERMISSION

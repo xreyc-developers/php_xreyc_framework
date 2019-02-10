@@ -15,9 +15,9 @@ class Route {
         
         global $REQUEST_URI;
 
-        if($url == $REQUEST_URI){
-            echo "match";
-        }
+        echo ($url == $REQUEST_URI)?'match':'';
+
+        
     }
 
     /**
